@@ -5,7 +5,8 @@ module.exports = {
     extend: {
       fontFamily: {
         'Roboto': 'Roboto, sans-serif',
-        'Lobster': 'Lobster, sans-serif'
+        'Lobster': 'Lobster, sans-serif',
+        'Poppins': 'Poppins, sans-serif'
       }
     },
   },
