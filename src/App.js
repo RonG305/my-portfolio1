@@ -12,7 +12,7 @@ import Footer from './components/Footer/Footer';
 
 function App() {
   return (
-    <div className="App font-Poppins bg-blue-100">
+    <div className="App font-Poppins bg-blue-100 overflow-x-hidden">
       <Navbar />
       <BrowserRouter>
         <Hero />
